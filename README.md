@@ -1,5 +1,4 @@
 # Image-Classification-with-Tensorflow
-# Image Classification with TensorFlow
 
 ## Overview
 
